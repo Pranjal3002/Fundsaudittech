@@ -60,10 +60,6 @@ This project predicts mutual fund returns for different time periods (1 month, 3
 
 ---
 
-### **Results**
-- Predicted top mutual funds for each time period (1 month, 3 months, 6 months, 1 year) based on expected returns.
-- 
 
----
 
 
