@@ -40,8 +40,12 @@ This project predicts mutual fund returns for different time periods (1 month, 3
 ---
 
 ### **Exploratory Data Analysis**
-- Visualized the distribution of numerical features using histograms.  
-- Analyzed correlations using a heatmap to identify relationships between features and target variables.  
+- Visualized the distribution of numerical features using histograms.
+![p](https://github.com/user-attachments/assets/ddfe4342-ab6f-41f1-93d7-14091cb5ba4f)
+
+- Analyzed correlations using a heatmap to identify relationships between features and target variables.
+- ![q](https://github.com/user-attachments/assets/adee4a14-5924-4f79-9cbd-35b754f069f7)
+
 
 ---
 
@@ -57,12 +61,9 @@ This project predicts mutual fund returns for different time periods (1 month, 3
 ---
 
 ### **Results**
-- Predicted top mutual funds for each time period (1 month, 3 months, 6 months, 1 year) based on expected returns.  
+- Predicted top mutual funds for each time period (1 month, 3 months, 6 months, 1 year) based on expected returns.
+- 
 
 ---
 
-### **How to Use**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Fundsaudittech.git
-   cd Fundsaudittech
+
